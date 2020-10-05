@@ -1,7 +1,7 @@
 # AmazonJPPriceTracker
 1. This amazon price tracker is custom-made for scraping the price on Amazon JP
-2. Open the file by VSCode/Pycharm and modify the content of variables (product's code, price benchmark, your email address, etc.) in the file.
-3. Run the file in the terminal within VSCode/Pycharm
+2. Open the file by VSCode/PyCharm and modify the content of variables (product's code, price benchmark, your email address, etc.) in the file.
+3. Run the file in the terminal within VSCode/PyCharm
 4. Once the price of products drops under the benchmark, a notification email will be sent
 
 ### Reminder
