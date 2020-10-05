@@ -5,6 +5,6 @@
 4. Once the price of products drops under the benchmark, a notification email will be sent
 
 ### Reminder
-1. You may need to prepare your own VPN or proxies to hide your identity
-2. You should avoid scrapping on the website while logging in your Amazon JP account
-3. You should bear your own responsibility if you violate any law during your scrapping
+- You may need to prepare your own VPN or proxies to hide your identity
+- You should avoid scrapping on the website while logging in your Amazon JP account
+- You should bear your own responsibility if you violate any law during your scrapping
